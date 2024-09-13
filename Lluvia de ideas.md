@@ -29,7 +29,7 @@ Este apartado es para tener todo el panorama del proyecto, con la finalidad de t
 
 
 ---
-1. [[Ideas Proyecto 1]]
+1. [[Singularity]]
 
 
 

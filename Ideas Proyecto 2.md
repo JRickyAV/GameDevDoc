@@ -1,4 +1,0 @@
----
-gameProperties:
-  - multiplayer
----
