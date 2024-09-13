@@ -4,36 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31d84c3d781b73d1",
+        "id": "99133de1f91eae5d",
         "type": "tabs",
-        "dimension": 49.34579439252336,
         "children": [
           {
-            "id": "8ee381c9d3ff07a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Untitled.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f7ba575b7c3bc4bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dia 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d4402b6473632a1",
+            "id": "29663656651c78c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,22 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "7e88791d58239a53",
-        "type": "tabs",
-        "dimension": 50.65420560747664,
-        "children": [
-          {
-            "id": "9324149c4aa7dfe3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -196,23 +155,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40f1c18f7e31a43b",
+  "active": "29663656651c78c1",
   "lastOpenFiles": [
-    "Herramientas.md",
-    "Ideas Proyecto 1.md",
+    "Lluvia de ideas.md",
+    "Singularity.md",
     "Proyecto 1 Ideas.md",
     "Unreal history.md",
-    "Singularity.md",
+    "Ideas Proyecto 1.md",
     "Documentación.md",
-    "Avance de tickets.md",
     "Cambiar color caja.md",
-    "other/temp.md",
+    "Día 1.md",
+    "Avance de tickets.md",
     "templates/Untitled.md",
+    "Herramientas.md",
+    "other/temp.md",
     "Tickets/Mover caja.md",
     "Tickets/Cambiar color de escenario tal.md",
     "1 Habits.md",
-    "Lluvia de ideas.md",
-    "Dia 1.md",
     "other/imgs/Pasted image 20240913152220.png",
     "a.md",
     "templates",
