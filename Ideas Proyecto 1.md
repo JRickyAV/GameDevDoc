@@ -21,4 +21,4 @@ Ya se puede explorar, mover, no tienes contexto alguno y tienes que "volver a ca
 
 ![[other/imgs/Pasted image 20240913152220.png]]
 
-Crear una especie que habite el ecosistema, 
+Crear una especie que habite el ecosistema, :)
