@@ -8,3 +8,5 @@ gameProperties:
 tags:
   - game
 ---
+
+Prueba

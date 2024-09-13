@@ -6,58 +6,16 @@
       {
         "id": "31d84c3d781b73d1",
         "type": "tabs",
-        "dimension": 49.34579439252336,
         "children": [
-          {
-            "id": "8ee381c9d3ff07a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Untitled.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f7ba575b7c3bc4bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dia 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "1d4402b6473632a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Ideas Proyecto 1.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "7e88791d58239a53",
-        "type": "tabs",
-        "dimension": 50.65420560747664,
-        "children": [
-          {
-            "id": "9324149c4aa7dfe3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -126,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas Proyecto 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas Proyecto 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ideas Proyecto 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,12 +150,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40f1c18f7e31a43b",
+  "active": "1d4402b6473632a1",
   "lastOpenFiles": [
-    "Herramientas.md",
-    "Ideas Proyecto 1.md",
-    "Proyecto 1 Ideas.md",
     "Unreal history.md",
+    "Ideas Proyecto 1.md",
+    "Herramientas.md",
+    "Proyecto 1 Ideas.md",
     "Singularity.md",
     "Documentación.md",
     "Avance de tickets.md",
