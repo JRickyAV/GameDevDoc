@@ -13,7 +13,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
+                "file": ".obsidian/appearance.json",
                 "staged": false
               }
             }
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 303.5
   },
   "right": {
     "id": "7d0d1375946984a8",
@@ -150,23 +150,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d4402b6473632a1",
+  "active": "69f8acb9ab18a38b",
   "lastOpenFiles": [
-    "Unreal history.md",
+    "Dia 1.md",
     "Ideas Proyecto 1.md",
+    "Untitled.md",
     "Herramientas.md",
+    "Cambiar color caja.md",
+    "Documentación.md",
+    "Día 1.md",
+    "Unreal history.md",
     "Proyecto 1 Ideas.md",
     "Singularity.md",
-    "Documentación.md",
     "Avance de tickets.md",
-    "Cambiar color caja.md",
     "other/temp.md",
     "templates/Untitled.md",
     "Tickets/Mover caja.md",
     "Tickets/Cambiar color de escenario tal.md",
     "1 Habits.md",
     "Lluvia de ideas.md",
-    "Dia 1.md",
     "other/imgs/Pasted image 20240913152220.png",
     "a.md",
     "templates",
