@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "gameProperties": "multitext"
+    "gameProperties": "multitext",
+    "type": "multitext",
+    "date": "date"
   }
 }

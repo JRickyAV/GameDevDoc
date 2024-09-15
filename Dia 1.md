@@ -1,3 +1,0 @@
-- Lluvia de ideas
-- Herramientas a utilizar
-- Objetivos, documentación etc
