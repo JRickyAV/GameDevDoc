@@ -8,15 +8,17 @@ gameProperties:
   - story
   - action
   - challenging
+tags:
+  - Info
 ---
 Se inicia el juego:
 
 El mundo: 
 
-Se hace una animación mostrandose **el mundo**
+Se hace una animación mostrándose **el mundo**
 
-Se presiona un boton y ya puedes usar los controles:
+Se presiona un botón y ya puedes usar los controles:
 
 Ya se puede explorar, mover, no tienes contexto alguno y tienes que "volver a casa, hogar, sitio donde estuviste"
 
-![[other/imgs/Pasted image 20240913152220.png]]
+![[utils/imgs/Imagen Escenario Conceptual.png]]
